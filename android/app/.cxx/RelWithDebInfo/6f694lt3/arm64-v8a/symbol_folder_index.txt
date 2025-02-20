@@ -1,0 +1,1 @@
+/home/shabin-muhd/Desktop/RN-FirstProject/LoginApp/android/app/build/intermediates/cxx/RelWithDebInfo/6f694lt3/obj/arm64-v8a

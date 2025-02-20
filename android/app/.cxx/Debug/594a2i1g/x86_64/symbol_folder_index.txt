@@ -1,0 +1,1 @@
+/home/shabin-muhd/Desktop/RN-FirstProject/LoginApp/android/app/build/intermediates/cxx/Debug/594a2i1g/obj/x86_64
